@@ -1,0 +1,4 @@
+scapy>=2.5.0
+keyboard>=0.13.5
+requests>=2.31.0
+pyperclip>=1.8.2 
